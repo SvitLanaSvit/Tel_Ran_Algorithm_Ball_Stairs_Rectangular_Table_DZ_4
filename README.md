@@ -1,2 +1,2 @@
 ## Ball_Stairs
-### Rectangular_Table
+## Rectangular_Table
